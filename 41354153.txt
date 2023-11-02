@@ -1,4 +1,5 @@
-dxasfwsfv计划开工黄金矿工
-从的撒长度深V
-大城市当初vvdfb参数的水电费vdvb
-cdgvedgbrtbhrhnytjntyujny45rg4h54h
+public class User{
+	public void fuck(){
+		system.out.pritinln("你麻痹");
+	}
+}
